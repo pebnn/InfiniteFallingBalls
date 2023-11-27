@@ -1,6 +1,8 @@
 # InfiniteFallingBalls
 Simple game made with  the Pygame Python package where your goal is to avoid being hit by the balls falling from the sky.
+
 ![InfiniteFallingBalls](https://i.imgur.com/CKRwqgb.png)
+
 
 # How to play
 * Download InfiniteFallingBalls from https://github.com/pebnn/InfiniteFallingBalls/archive/refs/heads/main.zip
